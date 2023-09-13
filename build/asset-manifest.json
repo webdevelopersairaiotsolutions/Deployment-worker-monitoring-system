@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35218e2d.css",
+    "main.js": "/static/js/main.3f9af46d.js",
+    "static/media/channel4 (video-converter.com).mp4": "/static/media/channel4 (video-converter.com).e304a17f018fece95a2b.mp4",
+    "static/media/video1 (video-converter.com).mp4": "/static/media/video1 (video-converter.com).72c2af8cac5187ebea7a.mp4",
+    "static/media/ad.png": "/static/media/ad.010c8336a7f40777fc5b.png",
+    "static/media/8020 (video-converter.com).mp4": "/static/media/8020 (video-converter.com).d9595d877b13e78fe00b.mp4",
+    "static/media/login3.jpg": "/static/media/login3.676a46e12fbc03e4376b.jpg",
+    "static/media/dashboard1.jpg": "/static/media/dashboard1.8190a8cfe539f8100051.jpg",
+    "static/media/login2.jpg": "/static/media/login2.5a56d90342619e876c73.jpg",
+    "static/media/dashboard.jpg": "/static/media/dashboard.ad070139b3f53cbebd28.jpg",
+    "static/media/8019 (video-converter.com).mp4": "/static/media/8019 (video-converter.com).3f39762318c537ee552c.mp4",
+    "static/media/login1.jpg": "/static/media/login1.24c88ae5b47b2bb8f2f2.jpg",
+    "index.html": "/index.html",
+    "main.35218e2d.css.map": "/static/css/main.35218e2d.css.map",
+    "main.3f9af46d.js.map": "/static/js/main.3f9af46d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35218e2d.css",
+    "static/js/main.3f9af46d.js"
+  ]
+}
